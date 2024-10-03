@@ -18,11 +18,11 @@ JOBS = [
     {
         'id': 3,
         'title': 'Software Engineer',
-        'location': 'Hyderabad, India',
+        'location': 'Panruti, India',
         
     },
     {
-        'id': 4,
+        'id': 5,
         'title': 'AI Researcher',
         'location': 'Chennai, India',
         'salary': 'Rs 20,00,000'
